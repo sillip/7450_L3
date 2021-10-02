@@ -1,0 +1,12 @@
+<html>
+	<head>
+	</head>
+	<body>
+		<script language="javascript" type="text/javascript">
+			var x = -1
+			if (x < 0)
+			alert("x is a negative number");
+		</script>
+	</body>
+</html>
+
